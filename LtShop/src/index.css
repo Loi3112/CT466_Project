@@ -1,0 +1,16 @@
+@import "slick-carousel/slick/slick.css";
+@import "slick-carousel/slick/slick-theme.css";
+@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
+
+
+body {
+  margin: 0;
+  box-sizing: border-box;
+  padding: 0;
+  font-family: 'Open Sans',serif;
+
+}
+
+html {
+  font-size: 100% ;
+}
